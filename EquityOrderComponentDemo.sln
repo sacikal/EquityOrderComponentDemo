@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquityOrderComponentDemo", "EquityOrderComponentDemo\EquityOrderComponentDemo.csproj", "{10B8F3EF-0194-420B-B3FE-9BF470F69448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquityOrderComponentDemo.Tests", "EquityOrderComponentDemo.Tests\EquityOrderComponentDemo.Tests.csproj", "{75BFECC6-760F-4718-B6D3-D01F5DADBC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B8F3EF-0194-420B-B3FE-9BF470F69448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B8F3EF-0194-420B-B3FE-9BF470F69448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B8F3EF-0194-420B-B3FE-9BF470F69448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B8F3EF-0194-420B-B3FE-9BF470F69448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BFECC6-760F-4718-B6D3-D01F5DADBC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BFECC6-760F-4718-B6D3-D01F5DADBC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BFECC6-760F-4718-B6D3-D01F5DADBC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BFECC6-760F-4718-B6D3-D01F5DADBC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4594EB3-FCA7-455A-8C6F-679B509BD31A}
+	EndGlobalSection
+EndGlobal
